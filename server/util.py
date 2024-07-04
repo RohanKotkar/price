@@ -50,5 +50,3 @@ if __name__ == "__main__":
     print(get_location_names())
     print(get_estimated_price('Viman Nagar',1500,2,2))
     print(get_estimated_price('Viman Nagar', 1500, 3, 3))
-
-#practice commit
